@@ -7,5 +7,5 @@
 module CalculatorMVP {
 	requires java.desktop;
 	// Add exports to make the module's packages accessible to other modules
-	exports com;
+	exports com to java.desktop;
 }
