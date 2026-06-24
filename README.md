@@ -2,8 +2,8 @@
 ## Description
 For SQE test case Assignment.
 ## Usage
-To be added.
+Run the CalculatorMVP module using the `java` command. Ensure you have Java 11 or later installed on your system.
 ## Contributing
-To be added.
+Contributions are welcome. To contribute, please submit a pull request with a clear description of the changes made.
 ## License
-To be added.
+This project is licensed under the MIT License.
